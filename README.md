@@ -13,7 +13,7 @@ To use this script, you'll need to have a userscript manager like **Tampermonkey
 1. Install a userscript manager:
    - I used Tampermonkey v5.3.3 while making it
 
-2. Click on the [script link](https://github.com/xanthisafk/coppermine-gallery-downloader) and choose "Install" (or paste the script into a new script in the userscript manager).
+2. Click on the [script link](./Coppermine%20Gallery%20Downloader.user.js) and click `Raw` then `install` (or paste the script into a new script in the userscript manager).
 
 3. Once installed, navigate to any Coppermine Gallery page, and the script will automatically add a **Download** button to the page.
 
