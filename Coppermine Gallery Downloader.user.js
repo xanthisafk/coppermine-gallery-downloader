@@ -4,6 +4,7 @@
 // @version      1.3
 // @description  Download galleries powered by Coppermine Photo Gallery
 // @author       Abhinav
+// @license      MIT; https://github.com/xanthisafk/coppermine-gallery-downloader/blob/main/LICENSE
 // @match        *://*/thumbnails.php?*
 // @match        *://*/displayimage.php?*
 // @grant        GM_xmlhttpRequest
